@@ -1,4 +1,4 @@
-# RegressionModelProject-Figure
+# RegressionModelProject
 Regression Model Project
 Instructions
 
